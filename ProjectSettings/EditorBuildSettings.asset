@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Monster.unity
     guid: c9783962542baf14ab7a5c2ea324dd7a
+  - enabled: 1
+    path: Assets/Scenes/XCar.unity
+    guid: eedcfd70f0bf97e4cba7cd818c845652
   m_configObjects: {}

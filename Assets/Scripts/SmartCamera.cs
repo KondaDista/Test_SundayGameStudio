@@ -12,7 +12,7 @@ public class SmartCamera : MonoBehaviour
   [SerializeField] private float height = 10f;
   [SerializeField] private float distance = 10f;
 
-  private void Update()
+  private void FixedUpdate()
   {
     if (player)
     {
